@@ -1,4 +1,4 @@
-# Regex Tutorial: Pattern Tile
+# Regex Tutorial: Pattern Title
 
 This is a regular expression for validating email address inputs. This expression will validate that emails are being entered in proper formatting and use common characters
 
